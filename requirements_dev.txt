@@ -1,7 +1,6 @@
-ipywidgets
-notebook
-ensure
-py-youtube
+#python requirements below 
+
+
 
 
 # dev requirements
